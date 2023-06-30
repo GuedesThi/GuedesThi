@@ -1,6 +1,5 @@
 <h2>Olá mundo! Eu sou o Thiago Guedes
 <br><br>
-  <!--[![Site](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://dev-oguedes.pantheonsite.io/)-->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-guedes-01b434263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoguedes_2112/)
 [![Behnace](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/thiagoguedes10)
