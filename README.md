@@ -5,34 +5,46 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoguedes_2112/)
 [![Behnace](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/thiagoguedes10)
 
-[![o'Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=GuedesThi&hide=contribs&show_icons=true&title_color=DCDCDC&bg_color=000000&text_color=DCDCDC&icon_color=1E90FF&locale=pt-br&border_radius=21&border_color=000000)](https://github.com/GuedesThi/github-readme-stats)
 
-# Linguagens & Softwares que uso e domino
+
+# Linguagens, Frameworks & Tecnologias que uso e domino
 <br>
+
+## Controle de Versão:
+<div style="display: inline_block">
+    <!-- peguei no site https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+<br><br>
 
 ## Front-End:
 <div style="display: inline_block">
+    <!-- peguei no site https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+    <img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 <br><br>
 
-## Aplicativos Mobile e Back-End:
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
-</div>
-<br><br>
-
-## Dados, Automação & Machine Learning:
+## Back-End:
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+<br><br>
+
+## Banco de Dados:
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <hr>
 </div>
 <br><br>
@@ -44,15 +56,9 @@
 </div>  
 <br><br>
 
-## Criação de Sites Profissionais:
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</div>   
-<br><br>
-
 
 ## Minha Jornada:
-### Comecei no mundo da programação no final de 2021 que conheci por acaso através de um aplicativo que eu tinha baixado no início daquele ano, que ensinava os famosos HTML5, CSS3 e JavaScript. Após eu ver o que poderia fazer, comecei cursos para me especializar, mas, após descobrir o lindo e perfeito Wordpress, deixei Front-End de lado e passei a fazer sites apenas por ele.
-### Porém, isso não me desanimou, descobri que agora queria era criar aplicativos Mobile, por isso comecei a estudar Java e consequentemente logo em seguida Kotlin. Até que com a explosão do famoso Chat-GPT descobri que queria criar um aplitivo de conversa com uma IA super inteligente e independente, por isso comecei a estudar Python, para me especializar em Machine Learning.
-### O bom do mundo da programação é que sempre tem algo novo para você fazer, hoje estou focando em aplicativos com Java e Kotlin, e IAs com Python, mas já fiz desde sites com Front-End até aprender Hacker Ético, e no futuro penso em estudar C++ para criação de Games complexos.
+### Sou um homem 100% apaixonado por programação e qualquer coisa que envolva tecnologia. Descobri esse mundo bem por acaso, tinha baixado no início do ano um aplicativo que parecia interessante, mas que eu só entrei nele no final daquele ano em 2021 (férias pós 2º Ensino Médio) esse aplicativo ensinava HTML5, CSS3 e JavaScript. Após eu ver o que poderia fazer, comecei a procurar conteúdos para me especializar mais
+### Em 2022 foquei em Front-End e em Python, mas em 2023 decidi estudar um pouco de programação para Dados (Python, Colab, Execel, Power Bi) no qual eu amei, porém, a maioria das vagas pediam uma faculdade, como eu tinha acabado o 3º Ensino Médio, decidi entrar na faculdade de Bacharelado em Ciência da Computação. Porém,agora fazendo a faculdade me bateu de novo o animo de estudar apenas coisas que envolvem código puro, por isso decidi deixar Dados de lado (não sei até quando) e voltei a estudar mais tecnologias como React, Next.js, Node.js, Vue.Js
+### Estou no momento fazendo a faculdade enquanto busco e ganho conhecimentos de tecnologias, frameworks e linguagens que me façam um Desenvolvedor FullStack (já que quando estou num projeto gosto de mexer e ajudar em tudo)
 ### Bom, esse sou eu!
