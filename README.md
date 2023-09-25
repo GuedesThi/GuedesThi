@@ -18,7 +18,7 @@
 </div>
 <br><br>
 
-## Full Stack:
+## Full Stack Developer:
 <div style="display: inline_block">
     <!-- peguei no site https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
