@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=GuedesThi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
- <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesThi&layout=compact&langs_count=7&theme=gruvbox&hide_border=true"></a>&nbsp;
+ <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesThi&hide_progress=true&theme=gruvbox&hide_border=true"></a>&nbsp;
 </div>
-
+                                          
 <!-- Se quiser mudar as cores em &theme veja os nomes em (https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes) -->
   
 </br>
