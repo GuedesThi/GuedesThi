@@ -1,4 +1,5 @@
 # Hello world! Thiago Guedes👨‍💻 in here...
+<!--![image]()-->
 </br>
 
 <!-- Peguei referência do perfil (https://github.com/AmandaAilin) -->
@@ -15,15 +16,22 @@
 
 <h1 align="left">About me:</h1>
 
-<!--<img align="right" width="200px" src="https://user-images.githubusercontent.com/100203503/170312570-a192ea58-5712-438a-b9f1-a5312fc3bdf2.png"-->
+<img align="right" width="200px" src="https://github.com/GuedesThi/GuedesThi/assets/133881033/965a403d-334f-46bc-99ed-e6b77ebaa85d">
 
 
-Hi, I'm Thiago Guedes! A developer fullstack
+Hi, I'm Thiago Guedes! I'm a 20-year-old young man who has been passionate about programming since 2021, this was the first area that I really became interested in and helping people, not for money.
+
+I currently master and create my own projects with the following Languages and Technologies:
+- **Front-End**: JavaScript, TypeScript, React.js, HTML, CSS, Tailwind, Bootstrap, Git, GitHub
+- **Back-End**: Node.js, Express.js, Fastify, Next.js, Python, Django, Terminal
+- **Database**: PostgreSQL, MongoDB, MySQL Workbench
+- **UI/UX**: Figma
+- **Others**: Notion, Wordpress, Excel, Word
 </br>
 
-- 📚 Atualmente estou estudando Java e SQL
+At the moment (2024) I am studying Java for college work
 - 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
-- 💡 Curiosidade: Sou apaixonada por livros, cafeterias e Notion.   
+
 
 </br>
 </br>
