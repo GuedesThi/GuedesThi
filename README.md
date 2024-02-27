@@ -1,5 +1,4 @@
 # Hello world! Thiago Guedes👨‍💻 in here...
-<!--![image]()-->
 </br>
 
 <!-- Peguei referência do perfil (https://github.com/AmandaAilin) -->
@@ -29,19 +28,20 @@ I currently master and create my own projects with the following Languages and T
 - **Others**: Notion, Wordpress, Excel, Word
 </br>
 
-At the moment (2024) I am studying Java for college work
-- 📧 Como entrar em contato comigo: Amandaailindev@gmail.com
+At the moment (2024) I am studying Java for college work and I intend to use it more in the Back-End of my Web Applications.
+
+In addition to mastering these Technologies above, I am great in a team, always communicating, committing to my tasks, doing more than expected. I'm not afraid of errors on the screen, I like them to overcome them and deliver even better work. In addition to having knowledge of online courses, I have college courses such as **Data Structure**, **BigO Notation**, etc.
+
+Looking for an opportunity for my first job, be it an internship, trainee or Junior.
 
 
-</br>
-</br>
-</br>
+
 </br>
   
   
 <div style="display: inline_block">
   
-  <h3 align="left">Habilidades principais:</h3>
+  <h3 align="left">Skills:</h3>
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
