@@ -1,8 +1,6 @@
 # Hello world! Thiago Guedes👨‍💻 in here...
 </br>
 
-<!-- Peguei referência do perfil (https://github.com/AmandaAilin) -->
-
 <div align="center">
   <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=GuedesThi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
  <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesThi&hide_progress=true&theme=gruvbox&hide_border=true"></a>&nbsp;                                        
@@ -21,10 +19,10 @@
 Hi, I'm Thiago Guedes! I'm a 20-year-old young man who has been passionate about programming since 2021, this was the first area that I really became interested in and helping people, not for money.
 
 I currently master and create my own projects with the following Languages and Technologies:
-- **Front-End**: JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Git, GitHub
+- **Front-End**: JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Css Modules, Git, GitHub
   <div>
     </br>
-    <!--Peguei tudo da página (https://dev.to/envoy_/150-badges-for-github-pnk#skills), no site do Shield.io só sei fazer estático -->
+    <!--Peguei tudo da página (https://dev.to/envoy_/150-badges-for-github-pnk#skills), no site do Shields.io só sei fazer estático -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target_"black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target_"black">
@@ -37,38 +35,33 @@ I currently master and create my own projects with the following Languages and T
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target_"black">
   </div>
-- **Back-End**: Java, Spring Boot, Node.js, Fastify, Python, Django
+- **Back-End**: Node.js, Fastify, Java, Spring Boot, Python
   <div>
     </br>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target_"black">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target_"black">
     <!--<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target_"black">-->
     <img src="https://img.shields.io/badge/FASTIFY-black?style=for-the-badge" target_"black">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target_"black">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" target_"black">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target_"black">
-    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" target_"black">
+    <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target_"black"> -->
     <!-- Não tinha as logos do Next.js e do Fastify, então criei eles estáticos e apenas adicionei no final da url "?style=for-the-badge" para ter mesma letra -->
   </div>
-- **Database**: PostgreSQL, MongoDB, MySQL Workbench
+- **Database**: PostgreSQL, MySQL, MongoDB
   <div>
     </br>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target_"black">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target_"black">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target_"black">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target_"black">
   </div>
-- **UI/UX**: Figma
+- **Others**: Figma, Excel, Word, Wordpress, Notion
   <div>
     </br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target_"black">
-  </div>
-- **Others**: Notion, Wordpress, Excel, Word
-  <div>
-    </br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target_"black">
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target_"black">
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target_"black">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target_"black"> 
   </div>
 
 
@@ -81,31 +74,10 @@ In addition to mastering these Technologies above, I am great in a team, always 
 
 Looking for an opportunity for my first job, be it an internship, trainee or Junior.
   
-  
-<!--
-<div style="display: inline_block">
-  
-  <h3 align="left">Skills:</h3>
-  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amanda-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Amanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Amanda-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Amanda-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="Amanda-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  
-  <h3 align="left">Ferramentas:</h3>
-  <img align="center" alt="Amanda-Bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Amanda-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
-</div>
--->
 ##
 
   <div>
-    <a href="https://www.linkedin.com/in/thiago-guedes-01b434263/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
+    <a href="https://www.linkedin.com/in/thiago-21-oguedes/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
     <a href = "mailto:thiagodossantosguedes@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
      <a href="https://www.instagram.com/thiagoguedes_2112/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--<a href="https://discord.gg/P2FHsjnT"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"></a>-->
