@@ -1,8 +1,8 @@
-# Hello world! Thiago Guedes👨‍💻 in here...
+# Hello world! Eu sou o Thiago👨‍💻 (mais conhecido como oguedes)
 </br>
 
 <div align="center">
-  <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=GuedesThi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+  <!-- <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=GuedesThi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp; -->
  <a href="https://github.com/GuedesThi"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuedesThi&hide_progress=true&theme=gruvbox&hide_border=true"></a>&nbsp;                                        
 </div>
                                           
@@ -11,15 +11,14 @@
 </br>
 </br>
 
-<h1 align="left">About me:</h1>
+<h1 align="left">Sobre mim:</h1>
 
 <img align="right" width="200px" src="https://github.com/GuedesThi/GuedesThi/assets/133881033/965a403d-334f-46bc-99ed-e6b77ebaa85d">
 
 
-Hi, I'm Thiago Guedes! I'm a 20-year-old young man who has been passionate about programming since 2021, this was the first area that I really became interested in and helping people, not for money.
+Trabalho com desenvolvimento fullstack (frontend + backend) desde 2022. Sou apaixondo por criar layouts modernos e criativos utilizando conceitos de UI/UX, e estruturar sistema (validação, autenticação, banco de dados, etc.) usando conceitos de clean code, SOLID, etc. Quando não estou estudando na faculdade de Ciência da Computação (termino em 2027), estou desenvolvendo projetos próprios com as tecnologias abaixo: 
 
-I currently master and create my own projects with the following Languages and Technologies:
-- **Front-End**: JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind, Bootstrap, Css Modules, Git, GitHub
+- **Front-End**: 
   <div>
     </br>
     <!--Peguei tudo da página (https://dev.to/envoy_/150-badges-for-github-pnk#skills), no site do Shields.io só sei fazer estático -->
@@ -35,7 +34,7 @@ I currently master and create my own projects with the following Languages and T
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target_"black">
   </div>
-- **Back-End**: Node.js, Fastify, Java, Spring Boot, Python
+- **Back-End**:
   <div>
     </br>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target_"black">
@@ -44,17 +43,13 @@ I currently master and create my own projects with the following Languages and T
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target_"black">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" target_"black">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target_"black">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target_"black">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target_"black">
     <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target_"black"> -->
     <!-- Não tinha as logos do Next.js e do Fastify, então criei eles estáticos e apenas adicionei no final da url "?style=for-the-badge" para ter mesma letra -->
   </div>
-- **Database**: PostgreSQL, MySQL, MongoDB
-  <div>
-    </br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target_"black">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target_"black">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target_"black">
-  </div>
-- **Others**: Figma, Excel, Word, Wordpress, Notion
+- **Outros**:
   <div>
     </br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target_"black">
@@ -67,14 +62,6 @@ I currently master and create my own projects with the following Languages and T
 
 
 </br>
-
-At the moment (2024) I am studying Java☕ for college work and I intend to use it more in the Back-End of my Web Applications.
-
-In addition to mastering these Technologies above, I am great in a team, always communicating, committing to my tasks, doing more than expected. I'm not afraid of errors on the screen, I like them to overcome them and deliver even better work. In addition to having knowledge of online courses, I have college courses such as **Data Structure**, **BigO Notation**, etc.
-
-Looking for an opportunity for my first job, be it an internship, trainee or Junior.
-  
-##
 
   <div>
     <a href="https://www.linkedin.com/in/thiago-21-oguedes/" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
